@@ -7,5 +7,4 @@ This project implements a fake news detection system using NLP and deep learning
 **Accuracy:** ~81%
 
 #Demo
-You can find the full presentation link here -> 
-https://docs.google.com/presentation/d/1eZZeUbrYZLEHKFdi670Oc_JJIRN2k6ZF/edit?usp=drivesdk&ouid=113990697692613894218&rtpof=true&sd=true
+You can find the full presentation link here -> https://drive.google.com/file/d/1Dhbrtd4SYPAi4VtrBBJx0fJKWB8Dp1jd/view?usp=drivesdk
