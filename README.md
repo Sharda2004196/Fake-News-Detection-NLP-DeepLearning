@@ -6,4 +6,6 @@ This project implements a fake news detection system using NLP and deep learning
 **Model:** Embedding → Conv1D → BiLSTM  
 **Accuracy:** ~81%
 
-Dataset not included due to size limitations.
+#Demo
+You can find the full presentation link here -> 
+https://docs.google.com/presentation/d/1eZZeUbrYZLEHKFdi670Oc_JJIRN2k6ZF/edit?usp=drivesdk&ouid=113990697692613894218&rtpof=true&sd=true
